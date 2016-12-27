@@ -1,0 +1,11 @@
+C:\Users\jka\AppData\Local\Temporary Projects\DRS-UR\bin\Debug\DRS-UR.exe.config
+D:\Source\VB.Net Danske Retursystem\DRS-UR\DRS-UR\bin\Debug\DRS-UR.exe.config
+D:\Source\VB.Net Danske Retursystem\DRS-UR\DRS-UR\bin\Debug\DRS-UR.exe
+D:\Source\VB.Net Danske Retursystem\DRS-UR\DRS-UR\bin\Debug\DRS-UR.pdb
+D:\Source\VB.Net Danske Retursystem\DRS-UR\DRS-UR\bin\Debug\DRS-UR.xml
+D:\Source\VB.Net Danske Retursystem\DRS-UR\DRS-UR\obj\Debug\DRS_UR.Form1.resources
+D:\Source\VB.Net Danske Retursystem\DRS-UR\DRS-UR\obj\Debug\DRS_UR.Resources.resources
+D:\Source\VB.Net Danske Retursystem\DRS-UR\DRS-UR\obj\Debug\DRS-UR.vbproj.GenerateResource.Cache
+D:\Source\VB.Net Danske Retursystem\DRS-UR\DRS-UR\obj\Debug\DRS-UR.exe
+D:\Source\VB.Net Danske Retursystem\DRS-UR\DRS-UR\obj\Debug\DRS-UR.xml
+D:\Source\VB.Net Danske Retursystem\DRS-UR\DRS-UR\obj\Debug\DRS-UR.pdb
